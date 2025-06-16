@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1749981718 source:c:\users\emil\desktop\outro\outroshutdown\outroshutdown\main.c
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+
+1749982331 source:c:\users\emil\desktop\outro\outroshutdown\outroshutdown\icon.rc
+
