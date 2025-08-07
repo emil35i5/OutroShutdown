@@ -49,11 +49,23 @@ void shutdownPC() {
 }
 
 int main() {
-    BlockInput(TRUE);
+    printf("\n");
+    printf("  / __ \\      | |           / ____| |         | |    | |\n"
+       " | |  | |_   _| |_ _ __ ___| (___ | |__  _   _| |_ __| | _____      ___ __\n"
+       " | |  | | | | | __| '__/ _ \\\\___ \\| '_ \\| | | | __/ _` |/ _ \\ \\ /\\ / / '_ \\\n"
+       " | |__| | |_| | |_| | | (_) |___) | | | | |_| | || (_| | (_) \\ V  V /| | | |\n"
+       "  \\____/ \\__,_|\\__|_|  \\___/_____/|_| |_|\\__,_|\\__\\__,_|\\___/ \\_/\\_/ |_| |_|\n"
+       "\n");
+    printf("Turn off your computer with music\n");
+    printf("\n");
+    printf("Thanks to karl6986 on GitHub for the original project: Awesome-shutdown\n");
+    printf("Music by TheFatRat - Xenogenesis (Outro Song)\n");
+    printf("emil.ystrom.dk\n");
     playMP3("song.mp3");  // <-- Update path if needed
 
     Sleep(57900);  // 57.9 sec
     //pauseMP3();
+    BlockInput(TRUE);
     turnOffScreen();
 
     //resumeMP3();
