@@ -8,4 +8,4 @@ Music by TheFatRat - Xenogenesis (Outro Song)
 
 The source code its for code::blocks: https://www.codeblocks.org
 
-![screenshot](https://github.com/emil35i5/OutroShutdown/blob/fb4a8f9b77b3b1adaf3e62f6f49f74cb99610812/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/emil35i5/OutroShutdown/refs/heads/main/screenshot.jpg)
