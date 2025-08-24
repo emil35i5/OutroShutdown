@@ -6,6 +6,6 @@ https://github.com/karl6986/Awesome-shutdown
 
 Music by TheFatRat - Xenogenesis (Outro Song)
 
-The source code its for code::blocks: https://www.codeblocks.org
+The source code its for Python3: https://www.python.org
 
 ![screenshot](https://raw.githubusercontent.com/emil35i5/OutroShutdown/refs/heads/main/screenshot.jpg)
